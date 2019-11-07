@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\DataBaseLibrary\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\user\source\repos\DataBaseLibrary\bin\Debug\netcoreapp3.0\DataBaseLibrary.deps.json
+C:\Users\user\source\repos\DataBaseLibrary\bin\Debug\netcoreapp3.0\DataBaseLibrary.dll
+C:\Users\user\source\repos\DataBaseLibrary\bin\Debug\netcoreapp3.0\DataBaseLibrary.pdb
+C:\Users\user\source\repos\DataBaseLibrary\obj\Debug\netcoreapp3.0\DataBaseLibrary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DataBaseLibrary\obj\Debug\netcoreapp3.0\DataBaseLibrary.AssemblyInfo.cs
+C:\Users\user\source\repos\DataBaseLibrary\obj\Debug\netcoreapp3.0\DataBaseLibrary.dll
+C:\Users\user\source\repos\DataBaseLibrary\obj\Debug\netcoreapp3.0\DataBaseLibrary.pdb
+C:\Users\user\source\repos\DataBaseLibrary\obj\Debug\netcoreapp3.0\DataBaseLibrary.csprojAssemblyReference.cache
